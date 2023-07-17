@@ -10,6 +10,8 @@ const bookSearch = () => {
         document.getElementById("bookResult").innerHTML = `
             <h1 class="text-danger text-center mt-5"> Type Anything & Search Again...!! </h1>
         `;
+
+        
     }
     else {
         // Loader Spinner
